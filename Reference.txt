@@ -1,0 +1,31 @@
+https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.4-stable.tar.xz
+https://github.com/flutter/samples.git
+https://github.com/nisrulz/flutter-examples.git
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.98.0/vspackage
+
+https://github.com/aquasecurity/trivy/releases/download/v0.57.0/trivy_0.57.0_Linux-64bit.deb
+https://github.com/aquasecurity/trivy/releases/download/v0.57.0/trivy_0.57.0_Linux-32bit.deb
+https://github.com/aquasecurity/trivy/releases/download/v0.57.0/trivy_0.57.0_windows-64bit.zip
+
+docker pull quay.io/sighup/trivy-offline:2024-10-30
+
+docker pull aquasec/trivy:0.57.0
+docker pull ghcr.io/aquasecurity/trivy-db:2
+oras pull ghcr.io/aquasecurity/trivy-db:2
+
+https://github.com/aquasecurity/trivy-db/releases/download/v1-2023020812/trivy-offline.db.tgz
+
+
+https://www.theseus.fi/bitstream/handle/10024/804579/Vilander_Ville.pdf?sequence=2&isAllowed=y
+https://www.theseus.fi/bitstream/handle/10024/801058/Batskihh_Jana.pdf?sequence=2&isAllowed=y
+https://www.theseus.fi/bitstream/handle/10024/863573/Lawal_Habeebullah.pdf?sequence=2&isAllowed=y
+https://www.theseus.fi/bitstream/handle/10024/334710/MikkoKurkela_DevOpsCapabilityAssessmentInASoftwareDevelopmentTeam.pdf?sequence=2&isAllowed=y
+https://www.theseus.fi/bitstream/handle/10024/342349/Opinnaytetyo_Ella_Viitasuo_pdfa.pdf?sequence=2&isAllowed=y
+https://www.theseus.fi/bitstream/handle/10024/781693/Saarinen_Helena.pdf?sequence=2&isAllowed=y
+https://www.diva-portal.org/smash/get/diva2:1453017/FULLTEXT01.pdf
+https://dspace.cvut.cz/bitstream/handle/10467/87981/F8-DP-2020-Le-Henrich-thesis.pdf?sequence=-1&isAllowed=y
+https://publications.scss.tcd.ie/theses/diss/2016/TCD-SCSS-DISSERTATION-2016-057.pdf
+https://www.researchgate.net/profile/Fernando-Almeida-10/publication/358755796_Exploring_the_Benefits_of_Combining_DevOps_and_Agile/links/62155478b15a6a2101624404/Exploring-the-Benefits-of-Combining-DevOps-and-Agile.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+https://publications.scss.tcd.ie/theses/diss/2016/TCD-SCSS-DISSERTATION-2016-057.pdf
+
+
